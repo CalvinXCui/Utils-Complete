@@ -3,7 +3,7 @@
 </p>
 <p align="center">
 	<strong>A set of tools that keep Java sweet.</strong>
-</p>-->
+</p>
 <p align="center">
 	<a target="_blank" href="https://search.maven.org/search?q=g:%22cn.hutool%22%20AND%20a:%22hutool-all%22">
 		<img src="https://img.shields.io/maven-central/v/cn.hutool/hutool-all.svg?label=Maven%20Central" ></img>
@@ -27,7 +27,7 @@
 		<img src="https://img.shields.io/github/stars/looly/hutool.svg?style=social" alt="github star"></img>
 	</a>
 </p>
-<!--
+
 <p align="center">
 	-- 主页：<a href="https://hutool.cn">https://hutool.cn/</a> --
 </p>
