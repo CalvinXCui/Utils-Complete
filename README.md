@@ -27,13 +27,14 @@
 		<img src="https://img.shields.io/github/stars/looly/hutool.svg?style=social" alt="github star"></img>
 	</a>
 </p>
+<!--
 <p align="center">
 	-- 主页：<a href="https://hutool.cn">https://hutool.cn/</a> --
 </p>
 <p align="center">
 	-- QQ群②：<a href="https://shang.qq.com/wpa/qunwpa?idkey=717c8e1444c2f3538ea37d792a19a23837cfc201e0d0de783e353b87009252eb">871141901</a> --
 </p>
-
+-->
 -------------------------------------------------------------------------------
 
 ## 简介
